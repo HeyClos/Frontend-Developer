@@ -20,22 +20,6 @@ class ClientLogin extends React.Component {
     });
   };
 
-  // NOTE: double check history.push, could be "/" or "/ClientApp.js"
-
-  // login = e => {
-  //   e.preventDefault();
-  //   axiosWithAuth()
-  //     .post(
-  //       "https://bw-anywhere-fitness.herokuapp.com/api/register/",
-  //       this.state.credentials
-  //     )
-  //     .then(res => {
-  //       localStorage.setItem("token", res.data.payload);
-  //       this.props.history.push("/ClientApp");
-  //     })
-  //     .catch(err => console.log(err.response));
-  // };
-
   login = e => {
     e.preventDefault();
     axiosWithAuth()
@@ -49,7 +33,6 @@ class ClientLogin extends React.Component {
       })
       .catch(err => console.log(err.response));
   };
-
 
   render() {
     return (
@@ -84,6 +67,7 @@ class ClientLogin extends React.Component {
 
 export default ClientLogin;
 
+// Using Hooks below:
 // import React, { useState } from "react";
 
 // const ClientLogin = props => {
