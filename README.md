@@ -4,27 +4,23 @@ An app for fitness instructors, and people who want to schedule training session
 
 ## Functionality
 
-Fitness inctructors can create a profile. They can also Create, Upload, and Edit fitness routines/classes.
+**Fitness inctructors** can create a profile. They can also Create, Upload, and Edit fitness routines/classes.
 
-Users can create a profile. They can also access all of the fitness routines/classes uploaded by the fitness instructors. Users can pick routines/classes they want to take from the instructors.
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+**Users** can create a profile. They can also access all of the fitness routines/classes uploaded by the fitness instructors. Users can pick routines/classes they want to take from the instructors.
 
 ## Built With
 
-* [React](https://reactjs.org/) - The web framework used
+* [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 
 ## Authors
 
-* **Carlos de Santiago** - *Initial work* - [Full-Stack Web](https://github.com/HeyClos)
+* **Carlos de Santiago** - *Full-Stack Web Developer* - [Carlos' Github](https://github.com/HeyClos)
 
-* **Candace Rossi** - *Initial work* - [Full-Stack Web](https://github.com/CandaceRossi)
+* **Candace Rossi** - *Full-Stack Web Developer* - [Candace's Github](https://github.com/CandaceRossi)
 
-* **John** - *Initial work* - [Full-Stack Web](https://github.com/Bigorange8801)
+* **John** - *Full-Stack Web Developer* - [John's Github](https://github.com/Bigorange8801)
 
-* **Arthur Pisakhov** - *Initial work* - [Team Lead](https://github.com/rushman7)
+* **Arthur Pisakhov** - *Team Lead* - [Arthur's Github](https://github.com/rushman7)
 
 
 ## License
